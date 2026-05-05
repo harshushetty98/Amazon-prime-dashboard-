@@ -6,24 +6,17 @@ ratings, genres, and trends over time.
 
 🚀 Overview
 The dashboard helps analyze:
-
 Total number of titles available on Prime Video
-
 Distribution of genres and ratings
-
 Country-wise availability of content
-
 Growth of movies and TV shows over the years
 
 
 
 📌 Key Metrics
 🎬 Total Titles: 9.65K
-
 🎭 Total Genres: 519
-
 ⭐ Total Ratings Categories: 25
-
 🎥 Total Directors: 5.77K
 
 
